@@ -1,1 +1,2 @@
-# Language_Solutions
+Language Solutions-Helping people to translate ideas and thoughts, it is about developing a utility for users that is capable of translating the text into different languages and auto-correcting any mistakes made in the text.
+Our platform also includes a word game that users may create and text-tospeech features. You can put your vocabulary skills to the test by contributing new terms to our platform's dictionary. The text-to-speech feature allows you to hear the correct pronunciation of words and phrases in a variety of languages.
